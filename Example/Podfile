@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AutoLayoutHelper_Example' do
+  pod 'AutoLayoutHelper', :path => '../'
+
+  target 'AutoLayoutHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
