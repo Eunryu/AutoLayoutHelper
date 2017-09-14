@@ -36,7 +36,7 @@ Please feel free to email us any inconvenience :)
   s.homepage         = 'none'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'eunryu_mac' => 'instru93@naver.com' }
+  s.author           = { 'Eunryu' => 'instru93@naver.com' }
   s.source           = { :git => 'https://github.com/Eunryu/AutoLayoutHelper.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
